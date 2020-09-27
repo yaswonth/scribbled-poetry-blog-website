@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41c72b9a.chunk.css",
+    "main.js": "/static/js/main.4cc21d13.chunk.js",
+    "main.js.map": "/static/js/main.4cc21d13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.73b565a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.73b565a0.js.map",
+    "static/js/2.a816a14e.chunk.js": "/static/js/2.a816a14e.chunk.js",
+    "static/js/2.a816a14e.chunk.js.map": "/static/js/2.a816a14e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9b635f1783e05982635c02b27cbf68d6.js": "/precache-manifest.9b635f1783e05982635c02b27cbf68d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.41c72b9a.chunk.css.map": "/static/css/main.41c72b9a.chunk.css.map",
+    "static/js/2.a816a14e.chunk.js.LICENSE.txt": "/static/js/2.a816a14e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Socialist.6f9914fe.ttf",
+    "static/media/Log.png": "/static/media/Log.781cb8a1.png",
+    "static/media/footer.jpg": "/static/media/footer.da261dd9.jpg",
+    "static/media/homeback-mob.jpg": "/static/media/homeback-mob.d17c6498.jpg",
+    "static/media/homeback.jpg": "/static/media/homeback.2f31472f.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.png": "/static/media/logo.bb149638.png",
+    "static/media/profile.JPG": "/static/media/profile.dcff22c9.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b565a0.js",
+    "static/js/2.a816a14e.chunk.js",
+    "static/css/main.41c72b9a.chunk.css",
+    "static/js/main.4cc21d13.chunk.js"
+  ]
+}
